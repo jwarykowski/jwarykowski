@@ -4,7 +4,7 @@ I'm a British software developer living in [Melbourne](https://en.wikipedia.org/
 
 - 🔭 I'm helping to build the best workforce management software at [Lighthouse.io](https://lighthouse.io)
 - 🌱 I’m learning to speak Polish and play the keyboard in my own time
-- 🤝 I want to learn more about [Rust](https://www.rust-lang.org/), [Web Assembly](https://webassembly.org/) and [AI](https://en.wikipedia.org/wiki/Artificial_intelligence)
+- 🤝 I want to learn more about [Web Assembly](https://webassembly.org/), [AI](https://en.wikipedia.org/wiki/Artificial_intelligence) and Cyber Security.
 
 ### Find me on the web:
 
