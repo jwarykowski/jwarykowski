@@ -1,4 +1,4 @@
-# Cześć!
+# Hello! Cześć!
 
 I'm a British software developer [@Zeller](https://www.myzeller.com/) living in [Melbourne](https://en.wikipedia.org/wiki/Melbourne), Australia. I've been helping to build complex applications and services for over 10 years. I’m extremely passionate about the web and its technologies and I'm using these tools to help build intelligent and well-designed products. I love #[JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript), #[Tigers](https://www.richmondfc.com.au/), #[Lakers](https://www.nba.com/lakers/), #[NUFC](https://www.nufc.com/) and the occasional #[FigRoll](https://en.wikipedia.org/wiki/Fig_roll).
 
